@@ -1,4 +1,4 @@
-package figures;
+import figures.Line;
 
 import java.util.Scanner;
 
